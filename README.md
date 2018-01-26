@@ -1,1 +1,1 @@
-This is a chinese chess project 
+This is a chinese chess frame
